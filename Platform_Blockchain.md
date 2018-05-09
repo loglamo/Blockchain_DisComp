@@ -19,7 +19,7 @@ Các đặc điểm chính cần kể đến cho platform này như:
 
 Tìm hiểu thêm tại:
 
-[Office bigchainDB]('https://www.bigchaindb.com/')
+[Office bigchainDB](https://www.bigchaindb.com/)
 
 ### 2. Chain Core
 
@@ -38,9 +38,9 @@ Các đặc điểm chính của platform này là:
 
 Tìm hiểu thêm tại:
 
-[Office ChainCore]('https://chain.com')
+[Office ChainCore](https://chain.com)
 
-[whitePaper ChainCore]('https://chain.com/docs/protocol/papers/whitepaper')
+[whitePaper ChainCore](https://chain.com/docs/protocol/papers/whitepaper)
 
 ### 3. Corda
 
@@ -55,7 +55,7 @@ Các đặc điểm chính của platform này:
 
 Tìm hiểu thêm tại:
 
-[Office Corda]('https://www.corda.net')
+[Office Corda](https://www.corda.net)
 
 ### 4. Credits
 
@@ -63,9 +63,9 @@ Tìm hiểu thêm tại:
 
 Tìm hiểu thêm tại:
 
-[Office Credits]('https://credits.works/')
+[Office Credits](https://credits.works/)
 
-[whitePaperCredits]('https://credits.readthedocs.io/en/latest/')
+[whitePaperCredits](https://credits.readthedocs.io/en/latest/)
 
 ### 5. Eris:db
 
@@ -80,7 +80,7 @@ Các đặc điểm chính của platform này:
 
 Tìm hiểu thêm tại:
 
-[Office Eris](' https://monax.io/platform/db/')
+[Office Eris](https://monax.io/platform/db/)
 
 ### 6. Ethereum
 
@@ -96,9 +96,9 @@ Các đặc điểm của platform này:
 
 Tìm hiểu thêm tại:
 
-[Office Ethereum]('https://ethereum.org/')
+[Office Ethereum](https://ethereum.org/)
 
-[white paper Ethereum]('https://github.com/ethereum/wiki/wiki/White-Paper')
+[white paper Ethereum](https://github.com/ethereum/wiki/wiki/White-Paper)
 
 ### 7. Quorum
 
@@ -112,9 +112,9 @@ Các đặc điểm của platform này:
 
 Tìm hiểu thêm tại:
 
-[Office Quorum]('https://www.jpmorgan.com/country/US/EN/Quorum')
+[Office Quorum](https://www.jpmorgan.com/country/US/EN/Quorum)
 
-[Github Quorum]('https://github.com/jpmorganchase/quorum')
+[Github Quorum](https://github.com/jpmorganchase/quorum)
 
 ### 8. Stellar
 
@@ -123,11 +123,11 @@ Cơ chế đồng thuận: Stellar Consensus Protocol
 
 Tìm hiểu thêm tại:
 
-[Office Stellar]('https://www.stellar.org')
+[Office Stellar](https://www.stellar.org)
 
-[Về giao thức Stallar Consensus]('https://www.stellar.org/papers/stellar-consensus-protocol.pdf')
+[Về giao thức Stallar Consensus](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)
 
-Bên trên là một vài platform thường được sử dụng cho Blockchain, ngoài ra cũng có các platform khác như: Symbiont Assembly, Openchain, Multichain, Hydrachain,... mà có thể tìm hiểu thêm tại link bài viết gốc tại [Blockchain_platform_medium]('https://medium.com/blockchain-blog/17-blockchain-platforms-a-brief-introduction-e07273185a0b')
+Bên trên là một vài platform thường được sử dụng cho Blockchain, ngoài ra cũng có các platform khác như: Symbiont Assembly, Openchain, Multichain, Hydrachain,... mà có thể tìm hiểu thêm tại link bài viết gốc tại [Blockchain_platform_medium](https://medium.com/blockchain-blog/17-blockchain-platforms-a-brief-introduction-e07273185a0b)
 
 
 
