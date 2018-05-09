@@ -67,7 +67,69 @@ Tìm hiểu thêm tại:
 
 [whitePaperCredits]('https://credits.readthedocs.io/en/latest/')
 
-### 5. Domus Tower Blockchain
+### 5. Eris:db
+
+Platform này có vai trò như một client sổ cái phân tán được cấp quyền và thực thi hợp đồng thông minh Ethereum.
+
+Các đặc điểm chính của platform này:
+
+- Nhiều giao diện
+- Máy ảo Ethereum
+- Hệ thống cấp quyền
+- Cơ chế đồng thuận: Động cơ đồng thuận Byzantine fault-tolerant Tendermint, là một bằng chứng dựa trên proof of stake protocol.
+
+Tìm hiểu thêm tại:
+
+[Office Eris](' https://monax.io/platform/db/')
+
+### 6. Ethereum
+
+Đây là một nền tảng phi tập trung, vận hành các hợp đồng thông minh trên blockchain được xây dựng tùy chỉnh.
+
+Các đặc điểm của platform này:
+
+- Ethereum Wallet - tạo điều kiện cho việc nắm giữ tài sản mật mã cũng như viết, triển khai và sử dụng các hợp đồng thông minh
+- Tao tiền điện tử
+- Tạo các tổ chức tự trị dân chủ
+- các công cụ dòng lệnh, với các ngôn ngữ: Go, C++, Python, Java,...
+- Cơ chế đồng thuận: dựa trên Ethash, một giải thuật cho bằng chứng xử lí (proof of work)
+
+Tìm hiểu thêm tại:
+
+[Office Ethereum]('https://ethereum.org/')
+
+[white paper Ethereum]('https://github.com/ethereum/wiki/wiki/White-Paper')
+
+### 7. Quorum
+
+Đây là một nền tảng hợp đồng thông mình, sổ cái phân tán mã nguồn mở dựa trên nền tảng Ethereum. 
+
+Các đặc điểm của platform này:
+
+- Cakeshop - cung cấp giao diện đồ họa dễ sử dụng để làm việc với mạng Quorum, hợp đồng thông minh và API
+- Lý tưởng cho các ứng dụng đòi hỏi tốc độ cao và xử lý thông lượng cao của các giao dịch cá nhân
+- Cơ chế đồng thuận: Mô hình đồng thuận dựa trên đa số phiếu bầu. Mô hình đồng thuận dựa trên bè Raft base) để có thời gian chặn nhanh hơn, kết quả giao dịch và tạo khối theo yêu cầu.
+
+Tìm hiểu thêm tại:
+
+[Office Quorum]('https://www.jpmorgan.com/country/US/EN/Quorum')
+
+[Github Quorum]('https://github.com/jpmorganchase/quorum')
+
+### 8. Stellar
+
+Đây là một nền tảng thanh toán phân tán, mã nguồn mở, kế nối với các ngân hàng và con người.  Stellar cho phép xây dựng ví điện thoại di động, công cụ ngân hàng, thiết bị thông minh. Nó cung cấp các máy chủ RESTful HTTP API được gọi là Horizon, kết nối với Stellar Core, xương sống của mạng Stellar.
+Cơ chế đồng thuận: Stellar Consensus Protocol
+
+Tìm hiểu thêm tại:
+
+[Office Stellar]('https://www.stellar.org')
+
+[Về giao thức Stallar Consensus]('https://www.stellar.org/papers/stellar-consensus-protocol.pdf')
+
+Bên trên là một vài platform thường được sử dụng cho Blockchain, ngoài ra cũng có các platform khác như: Symbiont Assembly, Openchain, Multichain, Hydrachain,... mà có thể tìm hiểu thêm tại link bài viết gốc tại [Blockchain_platform_medium]('https://medium.com/blockchain-blog/17-blockchain-platforms-a-brief-introduction-e07273185a0b')
+
+
 
 
 
